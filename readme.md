@@ -23,7 +23,7 @@ I am a Full Stack Data Engineer from Kazakhstan <img src="https://media.giphy.co
 ---
 
 ### :fire: My Stats :
-![Meiran's GitHub stats](https://github.com/anuraghazra/github-readme-stats)
-]
+![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=VlaislavKOTUN
+&show_icons=true&theme=tokyonight)
 
 
